@@ -59,7 +59,7 @@ print(html)
 #------------------connection----------
 hostname = 'localhost'  
 username = 'postgres'
-password = '@toto83DBZ'
+password = 'mdp'
 database = 'camping'
 Reservation = "camping.reservation"
 Camping_Client = "camping.camping_client"
